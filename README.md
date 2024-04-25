@@ -1,6 +1,5 @@
-markdown
-Copy code
-# ULTRASIMV0X.X
+ 
+ # ULTRASIMV0X.X
 
 **ULTRASIMV0X.X** is a cutting-edge Nintendo 64 emulator that integrates GPT-4 to enhance modding and development capabilities.
 
